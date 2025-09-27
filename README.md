@@ -18,6 +18,9 @@
   - The kernel sources for OS/161 is in the `kern` subdirectory, which has its own configuration script.
   - The `conf.kern` file determines what source files get included in our kernel build so we might have to modify the file later on.
 
+- Debugging
+  - Follow the steps at <https://people.ece.ubc.ca/~os161/os161-site/gdb-attach.html>
+
 ## Assignments
 
 ### Assignments 1
