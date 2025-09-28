@@ -23,6 +23,10 @@
 
 ## Assignments
 
+### Assignments 0
+
+- [Assignment 0 Answers](./Assignment0.md)
+
 ### Assignments 1
 
-- [Assignment 1 Answers](./Assignment0.md)
+- [Assignment 1 Answers](./Assignment1.md)
